@@ -1,0 +1,19 @@
+{
+      "id": "c",
+      "title": "Travel",
+      "guides": [
+        { "id": 7, "icon": "./icons/tripadvisor.png", "title": "Use TripAdvisor", "subtitle": "How-to use TripAdvisor when traveling"},
+        { "id": 8, "icon": "./icons/sbb.png", "title": "Use SBB to find connections", "subtitle": "How-to use SBB to find connection times" },
+      ]
+    },
+    {
+      "id": "d",
+      "title": "Data & Backup",
+      "guides": [
+        { "id": 9, "icon": "./icons/icloud.png", "title": "Backup photos to iCloud", "subtitle": "How-to backup photos & videos to iCloud"},
+        { "id": 10, "icon": "./icons/nextcloud.png", "title": "Backup photos to Nextcloud", "subtitle": "How-to backup photos & videos to Nextcloud" },
+      ]
+    },
+
+
+            { "id": 16, "icon": "./icons/dji.png", "title": "Use DJI Osmo Mobile 2", "subtitle": "How-to use DJI Osmo Mobile 2" },

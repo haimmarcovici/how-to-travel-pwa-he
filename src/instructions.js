@@ -1,124 +1,124 @@
 export default {
     1: {
-        title: "Track data usage",
+        title: "מעקב אחרי חבילת גלישה",
         instructions: [
-            { title: "Settings", subtitle: "Open App", width: "78px" },
-            { title: "Cellular", subtitle: "Tap" },
-            { title: "Current Period", subtitle: "View" }
+            { title: "Settings", subtitle: "פתח את האפליצקיה", width: "78px" },
+            { title: "Cellular", subtitle: "לחץ" },
+            { title: "Current Period", subtitle: "צפה" }
         ]
     },
     2: {
-        title: "Track available storage",
+        title: "מעקב אחרי כמות זכרון פנוי",
         instructions: [
-            { title: "Settings", subtitle: "Open App", width: "78px" },
-            { title: "General", subtitle: "Tap" },
-            { title: "About", subtitle: "Tap" },
-            { title: "Available", subtitle: "View" }
+            { title: "Settings", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "General", subtitle: "לחץ" },
+            { title: "About", subtitle: "לחץ" },
+            { title: "Available", subtitle: "צפה" }
         ]
     },
     3: {
-        title: "Daily tech to-do list",
+        title: "רשימת טכנולוגיה יומית",
         instructions: [
-            { title: "List", subtitle: "" },
+            { title: "רשימה", subtitle: "" },
         ]
     },
     4: {
-        title: "Send text messages",
+        title: "שליחת הודעות טקסט",
         instructions: [
-            { title: "Messages", subtitle: "Open App", width: "78px" },
-            { title: "On The Contact", subtitle: "Tap" },
-            { title: "iMessage...", subtitle: "Tap" },
-            { title: "The Message", subtitle: "Type" },
-            { title: "Send", subtitle: "Tap" }
+            { title: "Messages", subtitle: "פתח את האפליקצייה", width: "78px" },
+            { title: "על איש הקשר", subtitle: "לחץ" },
+            { title: "iMessage...", subtitle: "לחץ" },
+            { title: "את ההודעה", subtitle: "הזן" },
+            { title: "Send", subtitle: "לחץ" }
         ]
     },
     5: {
-        title: "Send photos",
+        title: "שליחת תמונות",
         instructions: [
-            { title: "Messages", subtitle: "Open App", width: "78px" },
-            { title: "On The Contact", subtitle: "Tap" },
-            { title: "On The Camera Icon", subtitle: "Tap", width: "78px" },
-            { title: "Swipe Left To Reveal Photos", subtitle: "Swipe" },
-            { title: "On The Photo", subtitle: "Tap" },
-            { title: "Send", subtitle: "Tap" }
+            { title: "Messages", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "על איש הקשר", subtitle: "לחץ" },
+            { title: "על אייקון המצלמה", subtitle: "לחץ", width: "78px" },
+            { title: "החלק שמאלה כדי לגלות את התמונות", subtitle: "החלק" },
+            { title: "על התמונה", subtitle: "לחץ" },
+            { title: "Send", subtitle: "לחץ" }
         ]
     },
     6: {
-        title: "Make a FaceTime call",
+        title: "שיחת FaceTime",
         instructions: [
-            { title: "FaceTime", subtitle: "Open App", width: "78px" },
-            { title: "Between Video or Audio", subtitle: "Choose" },
-            { title: "On The Contact", subtitle: "Tap" },
+            { title: "FaceTime", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "בחר Video או Audio", subtitle: "בחר" },
+            { title: "על איש הקשר", subtitle: "לחץ" },
         ]
     },
     7: {
-        title: "Make a Duo call",
+        title: "שיחת Duo",
         instructions: [
-            { title: "Duo", subtitle: "Open App", width: "78px" },
-            { title: "Swipe Up To Reveal Contacts", subtitle: "Swipe" },
-            { title: "On The Contact", subtitle: "Tap" },
+            { title: "Duo", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "החלק למעלה כדי לראות את אנשי הקשר", subtitle: "החלק" },
+            { title: "על איש הקשר", subtitle: "לחץ" },
         ]
     },
     8: {
-        title: "Set an alarm",
+        title: "קביעת תזכורת",
         instructions: [
-            { title: "Clock", subtitle: "Open App", width: "78px" },
-            { title: "On Alarm", subtitle: "Tap" },
-            { title: "On The Plus Icon", subtitle: "Tap" },
-            { title: "The Desired Time", subtitle: "Set" },
-            { title: "On Save", subtitle: "Tap" }
+            { title: "Clock", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "על Alarm", subtitle: "לחץ" },
+            { title: "על אייקון הפלוס", subtitle: "לחץ" },
+            { title: "את זמן ההתרעה", subtitle: "בחר" },
+            { title: "על Save", subtitle: "לחץ" }
         ]
     },
     9: {
-        title: "Turn on airplane mode",
+        title: "הפעלת מצב טיסה",
         instructions: [
-            { title: "Swipe up from bottom", subtitle: "Swipe" },
-            { title: "On The Airplane Icon", subtitle: "Tap" },
-            { title: "On The Close Arrow", subtitle: "Tap" },
+            { title: "החלק למעלה מתחתית המכשיר", subtitle: "החלק" },
+            { title: "על סימן המטוס", subtitle: "לחץ" },
+            { title: "על חץ למטה", subtitle: "לחץ" },
         ]
     },
     10: {
-        title: "Turn off airplane mode",
+        title: "כיבוי מצב טיסה",
         instructions: [
-            { title: "Swipe up from bottom", subtitle: "Swipe" },
-            { title: "On The Airplane Icon", subtitle: "Tap" },
-            { title: "On The Close Arrow", subtitle: "Tap" },
+            { title: "החלק למעלה מתחתית המכשיר", subtitle: "החלק" },
+            { title: "על סימן המכשיר", subtitle: "לחץ" },
+            { title: "על חץ למטה", subtitle: "לחץ" },
         ]
     },
     11: {
-        title: "Connect to a Wi-Fi network",
+        title: "התחברות לרשת Wi-Fi",
         instructions: [
-            { title: "Settings", subtitle: "Open App", width: "78px" },
-            { title: "On Wi-Fi", subtitle: "Tap" },
-            { title: "On The Network Name", subtitle: "Tap" },
-            { title: "The Password", subtitle: "Type" },
-            { title: "Join", subtitle: "Tap" },
-            { title: "The Wi-Fi icon is present in the top left corner", subtitle: "Make Sure" },
+            { title: "Settings", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "על Wi-Fi", subtitle: "לחץ" },
+            { title: "על שם הרשת האלחוטית", subtitle: "לחץ" },
+            { title: "את הסיסמה", subtitle: "הזן" },
+            { title: "על Join", subtitle: "לחץ" },
+            { title: "שסימן ה Wi-Fi מופיע בחלק השמאלי עליון של המסך", subtitle: "בדוק" },
         ]
     },
     12: {
-        title: "Take a photo",
+        title: "צילום תמונות",
         instructions: [
-            { title: "Camera", subtitle: "Open App", width: "78px" },
-            { title: "Photo is Selected", subtitle: "Make Sure", width: "24px" },
-            { title: "The Shutter Button To Take a Photo", subtitle: "Tap", width: "78px" },
+            { title: "Camera", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "ב Photo", subtitle: "בחר", width: "24px" },
+            { title: "על הכפתור העגול כדי לצלם תמונה", subtitle: "לחץ", width: "78px" },
         ]
     },
     13: {
-        title: "Take a video",
+        title: "צילום וידאו",
         instructions: [
-            { title: "Camera", subtitle: "Open App", width: "78px" },
-            { title: "Video is Selected", subtitle: "Make Sure", width: "24px" },
-            { title: "The Shutter Button To Take Start The Video", subtitle: "Tap", width: "78px" },
-            { title: "The Shutter Button To Take Stop The Video", subtitle: "Tap", width: "78px" }
+            { title: "Camera", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "ב Video", subtitle: "בחר", width: "24px" },
+            { title: "על כפתור העגול כדי להתחיל את צילום הוידאו", subtitle: "לחץ", width: "78px" },
+            { title: "על כפתור העגול כדי להפסיק את צילום הוידאו", subtitle: "לחץ", width: "78px" }
         ]
     },
     14: {
-        title: "View photos & videos",
+        title: "צפייה בתמונות ווידאו",
         instructions: [
-            { title: "Camera", subtitle: "Open App", width: "78px" },
-            { title: "The Image on the Lower Right Corner", subtitle: "Tap", width: "78px" },
-            { title: "Swipe Left & Right Between Photos", subtitle: "Swipe", width: "78px" }
+            { title: "Camera", subtitle: "פתח את האפליקציה", width: "78px" },
+            { title: "על התמונה הקטנה בצד ימין למטה", subtitle: "לחץ", width: "78px" },
+            { title: "בין התמונות", subtitle: "החלק", width: "78px" }
         ]
     }
 }

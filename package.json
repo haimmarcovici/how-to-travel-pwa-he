@@ -2,13 +2,13 @@
   "name": "create-react-pwa-boilerplate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://haimmarcovici.github.io/how-to-travel/",
+  "homepage": "https://haimmarcovici.github.io/how-to-travel-pwa-he/",
   "devDependencies": {
-    "gh-pages": "^0.11.0",
     "react-scripts": "0.7.0",
     "sw-precache": "^4.2.1"
   },
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-router-dom": "^4.2.2"

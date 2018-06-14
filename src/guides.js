@@ -1,41 +1,40 @@
 export default [
     {
       "id": "a",
-      "title": "Daily",
+      "title": "יום יום",
       "guides": [
-        { "id": 1, "icon": "./icons/settings.png", "title": "Track data usage", "subtitle": "How-to track mobile data"},
-        { "id": 2, "icon": "./icons/settings.png", "title": "Track available storage", "subtitle": "How-to track available storage space" },
-        { "id": 3, "icon": "./icons/books.png", "title": "Daily tech to-do list", "subtitle": "Daily tech do-to list" }
+        { "id": 1, "icon": "./icons/settings.png", "title": "מעקב אחרי חבילת גלישה", "subtitle": "איך לעקוב אחרי כמות החבילה שנוצלה"},
+        { "id": 2, "icon": "./icons/settings.png", "title": "מעקב אחרי כמות זכרון פנוי", "subtitle": "איך לעקוב אחרי מקום הזכרון הפנוי" },
+        { "id": 3, "icon": "./icons/books.png", "title": "רשימת טכנולוגיה יומית", "subtitle": "מה לעשות בכל יום" }
       ]
     },
     {
       "id": "b",
-      "title": "Communication",
+      "title": "תקשורת",
       "guides": [
-        { "id": 4, "icon": "./icons/messages.png", "title": "Send text messages", "subtitle": "How-to send text messages"},
-        { "id": 5, "icon": "./icons/messages.png", "title": "Send photos", "subtitle": "How-to send and photos"},
-        { "id": 6, "icon": "./icons/facetime.png", "title": "Make a FaceTime call", "subtitle": "How-to make a FaceTime video / audio call" },
-        { "id": 7, "icon": "./icons/duo.png", "title": "Make a Duo call", "subtitle": "How-to make a Duo video call" }
+        { "id": 4, "icon": "./icons/messages.png", "title": "שליחת הודעות טקסט", "subtitle": "איך לשלוח הודעות טקסט"},
+        { "id": 5, "icon": "./icons/messages.png", "title": "שליחת תמונות", "subtitle": "איך לשלוח תמונות"},
+        { "id": 6, "icon": "./icons/facetime.png", "title": "שיחת FaceTime", "subtitle": "איך לעשות שיחת וידאו / אודיו ב-FaceTime" },
+        { "id": 7, "icon": "./icons/duo.png", "title": "שיחת Duo", "subtitle": "איך לעשות שיחת וידאו ב-Duo" }
       ]
     },
-    
     {
       "id": "e",
-      "title": "Departure & Arrival",
+      "title": "יציאה והגעה",
       "guides": [
-        { "id": 8, "icon": "./icons/clock.png", "title": "Set an alarm", "subtitle": "How-to set an alarm" },
-        { "id": 9, "icon": "./icons/settings.png", "title": "Turn on airplane mode", "subtitle": "How-to turn on airplane mode"},
-        { "id": 10, "icon": "./icons/settings.png", "title": "Turn off airplane mode", "subtitle": "How-to turn off airplane mode"},
-        { "id": 11, "icon": "./icons/settings.png", "title": "Connect to a Wi-Fi network", "subtitle": "How-to connect to a Wi-Fi network" },
+        { "id": 8, "icon": "./icons/clock.png", "title": "קביעת תזכורת", "subtitle": "איך לקבוע תזכורת" },
+        { "id": 9, "icon": "./icons/settings.png", "title": "הפעלת מצב טיסה", "subtitle": "איך להפעיל את מצב טיסה"},
+        { "id": 10, "icon": "./icons/settings.png", "title": "כיבוי מצב טיסה", "subtitle": "איך לכבות את מצב טיסה"},
+        { "id": 11, "icon": "./icons/settings.png", "title": "התחברות לרשת Wi-Fi", "subtitle": "איך להתחבר לרשת Wi-Fi" },
       ]
     },
     {
       "id": "f",
-      "title": "Photos & Videos",
+      "title": "תמונות ווידאו",
       "guides": [
-        { "id": 12, "icon": "./icons/camera.png", "title": "Take a photo", "subtitle": "How-to take a photo"},
-        { "id": 13, "icon": "./icons/camera.png", "title": "Take a video", "subtitle": "How-to take a video" },
-        { "id": 14, "icon": "./icons/camera.png", "title": "View photos & videos", "subtitle": "How-to view photos & videos" },
+        { "id": 12, "icon": "./icons/camera.png", "title": "צילום תמונות", "subtitle": "איך לצלם תמונות"},
+        { "id": 13, "icon": "./icons/camera.png", "title": "צילום וידאו", "subtitle": "איך לצלם וידאו" },
+        { "id": 14, "icon": "./icons/camera.png", "title": "צפייה בתמונות ווידאו", "subtitle": "איך לצפות בתמונות ווידאו" },
       ]
     }
   ]

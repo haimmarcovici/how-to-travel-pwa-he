@@ -12,7 +12,7 @@ class Guide extends Component {
         if (data.instructions[step].hasOwnProperty("width")) {
             width = data.instructions[step].width
         }
-
+        // import image from '/guides/' + id + '/' + step + '.png';
         return (
             <div className="guideContainer">
                 <div className="header">
@@ -37,7 +37,7 @@ class Guide extends Component {
                 <div className="actions">
                 {parseInt(step) !== 0 &&
                     <Link to={`/guide/${id}/${parseInt(step) - 1}`} className="action">
-                        <p>Previous</p>
+                        <p>קודם</p>
                     </Link>
                 }
                 {parseInt(step) !== (data.instructions.length-1) &&
@@ -46,11 +46,11 @@ class Guide extends Component {
                 
                 {parseInt(step) === (data.instructions.length-1) ?
                     <Link to='/' className="action main">
-                        <p>Done</p>
+                        <p>סיים</p>
                     </Link>
                     :
                     <Link to={`/guide/${id}/${parseInt(step) + 1}`} className="action main">
-                        <p>Next</p>
+                        <p>הבא</p>
                     </Link>
                 }
                 </div>
